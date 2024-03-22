@@ -1,6 +1,6 @@
-let grauEmFahrenheit=70;
-let fahrenheitParaCelsius =((grauEmFahrenheit - 32)  / 9) *5
+let fahrenheit=73;
+let celsius =(fahrenheit - 32) *5 / 9
   
-console.log(` ${grauEmFahrenheit} em Fahrenheit são  ${fahrenheitParaCelsius.toFixed(2)} em Celsius`);
+console.log(` ${fahrenheit} em Fahrenheit são  ${celsius.toFixed(2)} em Celsius`);
 
  
