@@ -1,6 +1,8 @@
 # Back-end | Variáveis
 
-## Exercícios
+## Exercícios  realizado durante o curso de Back-end ca cubos academy
+
+### Exercícios
 
 1.  Calculadora de IMC
 2.  Fahrenheit x Celsius
